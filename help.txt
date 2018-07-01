@@ -1,0 +1,31 @@
+
+				COMMANDS & INSTRUCTIONS
+
+*Commands are not case-sensitives.
+
+	SIGN-UP
+			- To create an account
+			- Fill up the deatils and press ENTER.
+			
+	DEP (or) DEPOSIT
+			- To Deposite ammount to saving account.
+			- Eg.	DEP 500
+
+	WDR (or) WITHDRAW
+			- To Withdraw ammount from saving account.
+			- Eg.	WDR 300
+	
+	BAL (or) BALANCE
+			- To check current balance.
+			
+	MSTMT (or) MINISTATEMENT
+			- To check recent transtation details
+			
+	OVW (or) OVERVIEW
+			- To see saving bank account overview.
+			
+	EXIT
+			- To terminate the program.
+			
+	HELP
+			- To see this Commands & Instructions again.
